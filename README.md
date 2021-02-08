@@ -1,5 +1,4 @@
 # twotter-vue3
-
 ## Project setup
 ```
 npm install
