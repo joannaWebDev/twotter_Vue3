@@ -1,4 +1,6 @@
 # twotter-vue3
+Create a simple app, using **Vue3**, **vue ui**, **vue-router** & **vue-vuex**.
+
 ## Project setup
 ```
 npm install
@@ -19,5 +21,8 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### UI
+![Finalversion](twotter-vue3.gif)
+
+### Live at 
+[twottter-vue3.Herokuapp](https://twottter-vue3.herokuapp.com/)
